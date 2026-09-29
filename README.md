@@ -22,11 +22,11 @@ I am a full-stack software developer focused on turning business and operational
 
 I am the founder of **[SolGrid](https://github.com/larrythuku18-lab/SolGrid-Tea-Industry-)**, a B2B SaaS platform for pay-as-you-go solar distributors. I also enjoy building products that connect technical systems to real-world outcomes—from mobile-money collection and remote device management to structured AI-assisted workflows.
 
-- 🧩 Strong across **React, Next.js, Node.js, Flask, and PostgreSQL**
-- ☀️ Building technology for **clean energy and field operations**
-- 🤖 Developing **LLM-powered automation and multi-agent workflows**
-- 🏆 Three-time hackathon award winner
-- 🤝 Comfortable owning a project from product idea and architecture through delivery and stakeholder presentation
+- Strong across **React, Next.js, Node.js, Flask, and PostgreSQL**
+- Building technology for **clean energy and field operations**
+- Developing **LLM-powered automation and multi-agent workflows**
+- Three-time hackathon award winner
+- Comfortable owning a project from product idea and architecture through delivery and stakeholder presentation
 
 ## Technical skills
 
@@ -61,7 +61,7 @@ I am the founder of **[SolGrid](https://github.com/larrythuku18-lab/SolGrid-Tea-
 **Nairobi, Kenya · 2026–Present**
 
 - Delivered **Victory Homes**, a tenant and rental property management application covering unit tracking, tenant records, and rent-collection workflows.
-- Built digital assets and an online presence for **De’Beka Collections**, translating non-technical business requirements into shippable software.
+- Built digital assets and an online presence for **De'Beka Collections**, translating non-technical business requirements into shippable software.
 
 ## Selected projects
 
@@ -82,10 +82,10 @@ A responsive React application that consumes third-party forecast APIs and suppo
 
 ## Awards & recognition
 
-- 🥇 **First Place** — Career Fair Hackathon, 2026
-- 🥉 **Third Place** — Solving Kenyan Problems in the Health Sector, Moringa School, 2026
-- 🥉 **Third Place** — Jitume Hackathon, in partnership with Genesis Design Factory, 2026
-- 👥 **Ganmbare Devs** — Member of a collaborative developer team competing in hackathons and shipping joint projects
+- **First Place** — Career Fair Hackathon, 2026
+- **Third Place** — Solving Kenyan Problems in the Health Sector, Moringa School, 2026
+- **Third Place** — Jitume Hackathon, in partnership with Genesis Design Factory, 2026
+- **Ganmbare Devs** — Member of a collaborative developer team competing in hackathons and shipping joint projects
 
 ## Education
 
@@ -106,6 +106,6 @@ I am open to opportunities where I can contribute across product development, fr
 
 <div align="center">
 
-*Available for full-time, contract, and remote engagements.*
+Available for full-time, contract, and remote engagements.
 
 </div>
